@@ -4,7 +4,9 @@
     {"label": "DP-Upload all to server",
     "command": "deploytoserver:deploy"},
     {"label": "DP-Download all from server",
-    "command": "deploytoserver:get"}
+    "command": "deploytoserver:get"},
+    {"label": "DP-Clean server",
+    "command": "deploytoserver:cleansvr"}
   ]
 }
 }
