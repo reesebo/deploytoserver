@@ -6,7 +6,9 @@
     {"label": "DP-Download all from server",
     "command": "deploytoserver:get"},
     {"label": "DP-Clean server",
-    "command": "deploytoserver:cleansvr"}
+    "command": "deploytoserver:cleansvr"},
+    {"label": "DP-Node packages",
+    "command": "deploytoserver:inspackages"}
   ]
 }
 }
