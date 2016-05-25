@@ -7,8 +7,14 @@
     "command": "deploytoserver:get"},
     {"label": "DP-Clean server",
     "command": "deploytoserver:cleansvr"},
-    {"label": "DP-Node packages",
-    "command": "deploytoserver:inspackages"}
+    {"label": "DP-Node all packages",
+    "command": "deploytoserver:inspackages"},
+    {"label": "DP-Node one package",
+    "command": "deploytoserver:insonepackage"},
+    {"label": "DP-Router Generate",
+    "command": "deploytoserver:generaterouter"},
+    {"label": "DP-Register GlobalModel",
+    "command": "deploytoserver:registerglobalmodel"}
   ]
 }
 }
