@@ -3,6 +3,8 @@
   "atom-workspace":[
     {"label": "DP-Upload all to server",
     "command": "deploytoserver:deploy"},
+    {"label": "DP-Upload opened to server",
+    "command": "deploytoserver:deployopened"},
     {"label": "DP-Download all from server",
     "command": "deploytoserver:get"},
     {"label": "DP-Clean server",
