@@ -17,6 +17,10 @@
     "command": "deploytoserver:generaterouter"},
     {"label": "DP-Register GlobalModel",
     "command": "deploytoserver:registerglobalmodel"}
+  ],
+  ".tree-view":[
+    {"label":"DP-Upload folder to server",
+    "command":"deploytoserver:uploadfolder"}
   ]
 }
 }
